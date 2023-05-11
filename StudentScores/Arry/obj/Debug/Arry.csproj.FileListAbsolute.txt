@@ -1,0 +1,7 @@
+E:\UNI\C#\week-08\StudentScores\Arry\bin\Debug\Arry.exe.config
+E:\UNI\C#\week-08\StudentScores\Arry\bin\Debug\Arry.exe
+E:\UNI\C#\week-08\StudentScores\Arry\bin\Debug\Arry.pdb
+E:\UNI\C#\week-08\StudentScores\Arry\obj\Debug\Arry.csprojAssemblyReference.cache
+E:\UNI\C#\week-08\StudentScores\Arry\obj\Debug\Arry.csproj.CoreCompileInputs.cache
+E:\UNI\C#\week-08\StudentScores\Arry\obj\Debug\Arry.exe
+E:\UNI\C#\week-08\StudentScores\Arry\obj\Debug\Arry.pdb

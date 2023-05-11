@@ -1,0 +1,7 @@
+E:\UNI\C#\week-08\StudentScores\HM\bin\Debug\HM.exe.config
+E:\UNI\C#\week-08\StudentScores\HM\bin\Debug\HM.exe
+E:\UNI\C#\week-08\StudentScores\HM\bin\Debug\HM.pdb
+E:\UNI\C#\week-08\StudentScores\HM\obj\Debug\HM.csproj.CoreCompileInputs.cache
+E:\UNI\C#\week-08\StudentScores\HM\obj\Debug\HM.exe
+E:\UNI\C#\week-08\StudentScores\HM\obj\Debug\HM.pdb
+E:\UNI\C#\week-08\StudentScores\HM\obj\Debug\HM.csprojAssemblyReference.cache
