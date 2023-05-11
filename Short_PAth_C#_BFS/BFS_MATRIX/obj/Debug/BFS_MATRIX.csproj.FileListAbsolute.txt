@@ -1,0 +1,7 @@
+E:\دانشگاه\C#\Csharp20%Project\BFS\BFS_MATRIX\BFS_MATRIX\bin\Debug\BFS_MATRIX.exe.config
+E:\دانشگاه\C#\Csharp20%Project\BFS\BFS_MATRIX\BFS_MATRIX\bin\Debug\BFS_MATRIX.exe
+E:\دانشگاه\C#\Csharp20%Project\BFS\BFS_MATRIX\BFS_MATRIX\bin\Debug\BFS_MATRIX.pdb
+E:\دانشگاه\C#\Csharp20%Project\BFS\BFS_MATRIX\BFS_MATRIX\obj\Debug\BFS_MATRIX.csprojAssemblyReference.cache
+E:\دانشگاه\C#\Csharp20%Project\BFS\BFS_MATRIX\BFS_MATRIX\obj\Debug\BFS_MATRIX.csproj.CoreCompileInputs.cache
+E:\دانشگاه\C#\Csharp20%Project\BFS\BFS_MATRIX\BFS_MATRIX\obj\Debug\BFS_MATRIX.exe
+E:\دانشگاه\C#\Csharp20%Project\BFS\BFS_MATRIX\BFS_MATRIX\obj\Debug\BFS_MATRIX.pdb
