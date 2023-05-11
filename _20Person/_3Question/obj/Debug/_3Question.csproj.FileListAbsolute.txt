@@ -1,0 +1,7 @@
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_3Question\bin\Debug\_3Question.exe.config
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_3Question\bin\Debug\_3Question.exe
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_3Question\bin\Debug\_3Question.pdb
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_3Question\obj\Debug\_3Question.csproj.CoreCompileInputs.cache
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_3Question\obj\Debug\_3Question.exe
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_3Question\obj\Debug\_3Question.pdb
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_3Question\obj\Debug\_3Question.csprojAssemblyReference.cache

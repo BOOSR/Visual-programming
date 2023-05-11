@@ -1,0 +1,7 @@
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_20Person\bin\Debug\_20Person.exe.config
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_20Person\bin\Debug\_20Person.exe
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_20Person\bin\Debug\_20Person.pdb
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_20Person\obj\Debug\_20Person.csprojAssemblyReference.cache
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_20Person\obj\Debug\_20Person.csproj.CoreCompileInputs.cache
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_20Person\obj\Debug\_20Person.exe
+C:\Users\Rahmatullah Haidari\source\repos\_20Person\_20Person\obj\Debug\_20Person.pdb
