@@ -1,0 +1,7 @@
+E:\UNI\برنامه نویسی ویژوال\C# Code\week-03\operator\bin\Debug\@operator.exe.config
+E:\UNI\برنامه نویسی ویژوال\C# Code\week-03\operator\bin\Debug\@operator.exe
+E:\UNI\برنامه نویسی ویژوال\C# Code\week-03\operator\bin\Debug\@operator.pdb
+E:\UNI\برنامه نویسی ویژوال\C# Code\week-03\operator\obj\Debug\operator.csprojAssemblyReference.cache
+E:\UNI\برنامه نویسی ویژوال\C# Code\week-03\operator\obj\Debug\operator.csproj.CoreCompileInputs.cache
+E:\UNI\برنامه نویسی ویژوال\C# Code\week-03\operator\obj\Debug\@operator.exe
+E:\UNI\برنامه نویسی ویژوال\C# Code\week-03\operator\obj\Debug\@operator.pdb
