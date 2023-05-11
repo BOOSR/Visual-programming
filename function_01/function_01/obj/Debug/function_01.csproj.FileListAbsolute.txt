@@ -1,0 +1,7 @@
+E:\دانشگاه\C#\function_01\function_01\bin\Debug\function_01.exe.config
+E:\دانشگاه\C#\function_01\function_01\bin\Debug\function_01.exe
+E:\دانشگاه\C#\function_01\function_01\bin\Debug\function_01.pdb
+E:\دانشگاه\C#\function_01\function_01\obj\Debug\function_01.csprojAssemblyReference.cache
+E:\دانشگاه\C#\function_01\function_01\obj\Debug\function_01.csproj.CoreCompileInputs.cache
+E:\دانشگاه\C#\function_01\function_01\obj\Debug\function_01.exe
+E:\دانشگاه\C#\function_01\function_01\obj\Debug\function_01.pdb
