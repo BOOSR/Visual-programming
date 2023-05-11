@@ -1,0 +1,7 @@
+E:\UNI\برنامه نویسی ویژوال\C# Code\HomeWork\week-05\bin\Debug\week-05.exe.config
+E:\UNI\برنامه نویسی ویژوال\C# Code\HomeWork\week-05\bin\Debug\week-05.exe
+E:\UNI\برنامه نویسی ویژوال\C# Code\HomeWork\week-05\bin\Debug\week-05.pdb
+E:\UNI\برنامه نویسی ویژوال\C# Code\HomeWork\week-05\obj\Debug\week-05.csprojAssemblyReference.cache
+E:\UNI\برنامه نویسی ویژوال\C# Code\HomeWork\week-05\obj\Debug\week-05.csproj.CoreCompileInputs.cache
+E:\UNI\برنامه نویسی ویژوال\C# Code\HomeWork\week-05\obj\Debug\week-05.exe
+E:\UNI\برنامه نویسی ویژوال\C# Code\HomeWork\week-05\obj\Debug\week-05.pdb
