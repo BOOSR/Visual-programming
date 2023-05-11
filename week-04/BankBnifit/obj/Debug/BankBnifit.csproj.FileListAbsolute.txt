@@ -1,0 +1,7 @@
+C:\Users\Rahmatullah Haidari\source\repos\week-04\BankBnifit\bin\Debug\BankBnifit.exe.config
+C:\Users\Rahmatullah Haidari\source\repos\week-04\BankBnifit\bin\Debug\BankBnifit.exe
+C:\Users\Rahmatullah Haidari\source\repos\week-04\BankBnifit\bin\Debug\BankBnifit.pdb
+C:\Users\Rahmatullah Haidari\source\repos\week-04\BankBnifit\obj\Debug\BankBnifit.csprojAssemblyReference.cache
+C:\Users\Rahmatullah Haidari\source\repos\week-04\BankBnifit\obj\Debug\BankBnifit.csproj.CoreCompileInputs.cache
+C:\Users\Rahmatullah Haidari\source\repos\week-04\BankBnifit\obj\Debug\BankBnifit.exe
+C:\Users\Rahmatullah Haidari\source\repos\week-04\BankBnifit\obj\Debug\BankBnifit.pdb

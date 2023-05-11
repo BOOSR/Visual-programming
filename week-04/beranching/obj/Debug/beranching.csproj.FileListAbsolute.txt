@@ -1,0 +1,7 @@
+C:\Users\Rahmatullah Haidari\source\repos\week-04\beranching\bin\Debug\beranching.exe.config
+C:\Users\Rahmatullah Haidari\source\repos\week-04\beranching\bin\Debug\beranching.exe
+C:\Users\Rahmatullah Haidari\source\repos\week-04\beranching\bin\Debug\beranching.pdb
+C:\Users\Rahmatullah Haidari\source\repos\week-04\beranching\obj\Debug\beranching.csprojAssemblyReference.cache
+C:\Users\Rahmatullah Haidari\source\repos\week-04\beranching\obj\Debug\beranching.csproj.CoreCompileInputs.cache
+C:\Users\Rahmatullah Haidari\source\repos\week-04\beranching\obj\Debug\beranching.exe
+C:\Users\Rahmatullah Haidari\source\repos\week-04\beranching\obj\Debug\beranching.pdb
