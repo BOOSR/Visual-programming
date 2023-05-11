@@ -1,0 +1,7 @@
+E:\دانشگاه\C#\deteminantOFMatrix\deteminantOFMatrix\bin\Debug\deteminantOFMatrix.exe.config
+E:\دانشگاه\C#\deteminantOFMatrix\deteminantOFMatrix\bin\Debug\deteminantOFMatrix.exe
+E:\دانشگاه\C#\deteminantOFMatrix\deteminantOFMatrix\bin\Debug\deteminantOFMatrix.pdb
+E:\دانشگاه\C#\deteminantOFMatrix\deteminantOFMatrix\obj\Debug\deteminantOFMatrix.csprojAssemblyReference.cache
+E:\دانشگاه\C#\deteminantOFMatrix\deteminantOFMatrix\obj\Debug\deteminantOFMatrix.csproj.CoreCompileInputs.cache
+E:\دانشگاه\C#\deteminantOFMatrix\deteminantOFMatrix\obj\Debug\deteminantOFMatrix.exe
+E:\دانشگاه\C#\deteminantOFMatrix\deteminantOFMatrix\obj\Debug\deteminantOFMatrix.pdb
