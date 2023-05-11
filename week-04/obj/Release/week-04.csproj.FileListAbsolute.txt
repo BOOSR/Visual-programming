@@ -1,0 +1,6 @@
+E:\UNI\برنامه نویسی ویژوال\C# Code\HM\week-04\bin\Release\week-04.exe.config
+E:\UNI\برنامه نویسی ویژوال\C# Code\HM\week-04\bin\Release\week-04.exe
+E:\UNI\برنامه نویسی ویژوال\C# Code\HM\week-04\bin\Release\week-04.pdb
+E:\UNI\برنامه نویسی ویژوال\C# Code\HM\week-04\obj\Release\week-04.csproj.CoreCompileInputs.cache
+E:\UNI\برنامه نویسی ویژوال\C# Code\HM\week-04\obj\Release\week-04.exe
+E:\UNI\برنامه نویسی ویژوال\C# Code\HM\week-04\obj\Release\week-04.pdb
